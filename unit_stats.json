@@ -2,15 +2,15 @@
     "units": {
         "BananaUnit": {
             "rarity": "Rare",
-            "damage": 10-100,
-            "range": 5-15,
-            "attackSpeed": 0.5-0.2
+            "damage": "10-100",
+            "range": "5-15",
+            "attackSpeed": "0.5-0.2"
         },
         "WatermelonUnit": {
             "rarity": "Secret",
-            "damage": 100-500,
+            "damage": "100-500",
             "range": "N/A",
-            "attackSpeed": 20-10
+            "attackSpeed": "20-10"
         }
     }
 }
