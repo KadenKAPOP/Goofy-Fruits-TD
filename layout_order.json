@@ -1,0 +1,10 @@
+{
+    "rarities": {
+      "Omega": 1,
+      "Legendary": 2,
+      "Secret": 3,
+      "Epic": 4,
+      "Rare": 5,
+      "Uncommon": 6
+    }
+}
