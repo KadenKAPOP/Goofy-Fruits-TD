@@ -31,31 +31,31 @@
             "attackSpeed": "0.5-0.2"
         }, 
          "ShinyAppleUnit": {
-            "rarity": "Uncommon",
+            "rarity": "Shiny Uncommon",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
         "ShinyBananaUnit": {
-            "rarity": "Rare",
+            "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
          "ShinyBlueberryUnit": {
-            "rarity": "Rare",
+            "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
          },
         "ShinyWatermelonUnit": {
-            "rarity": "Secret",
+            "rarity": "Shiny Secret",
             "damage": "100-500",
             "range": "N/A",
             "attackSpeed": "20-10"
         },
          "ShinySeedUnit": {
-            "rarity": "Omega",
+            "rarity": "Shiny Omega",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
