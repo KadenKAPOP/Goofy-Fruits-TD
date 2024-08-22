@@ -1,60 +1,70 @@
 {
     "units": {
          "AppleUnit": {
+            "unitid": "0001",
             "rarity": "Uncommon",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
         "BananaUnit": {
+            "unitid": "0002",
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
          "BlueberryUnit": {
+            "unitid": "0003",
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
          },
         "WatermelonUnit": {
+            "unitid": "0004",
             "rarity": "Secret",
             "damage": "100-500",
             "range": "N/A",
             "attackSpeed": "20-10"
         },
          "SeedUnit": {
+            "unitid": "0005",
             "rarity": "Omega",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         }, 
          "ShinyAppleUnit": {
+            "unitid": "1001",
             "rarity": "Shiny Uncommon",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
         "ShinyBananaUnit": {
+            "unitid": "1002",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
          "ShinyBlueberryUnit": {
+            "unitid": "1003",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
          },
         "ShinyWatermelonUnit": {
+            "unitid": "1004",
             "rarity": "Shiny Secret",
             "damage": "100-500",
             "range": "N/A",
             "attackSpeed": "20-10"
         },
          "ShinySeedUnit": {
+            "unitid": "1005",
             "rarity": "Shiny Omega",
             "damage": "10-100",
             "range": "5-15",
