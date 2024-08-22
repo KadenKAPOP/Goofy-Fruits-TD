@@ -1,70 +1,70 @@
 {
     "units": {
-         "AppleUnit": {
-            "unitid": "0001",
+         "0001": {
+            "unitname": "AppleUnit",
             "rarity": "Uncommon",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
-        "BananaUnit": {
-            "unitid": "0002",
+        "0002": {
+            "unitname": "BananaUnit",
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
-         "BlueberryUnit": {
-            "unitid": "0003",
+         "0003": {
+            "unitname": "BlueberryUnit",
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
          },
-        "WatermelonUnit": {
-            "unitid": "0004",
+        "0004": {
+            "unitname": "WatermelonUnit",
             "rarity": "Secret",
             "damage": "100-500",
             "range": "N/A",
             "attackSpeed": "20-10"
         },
-         "SeedUnit": {
-            "unitid": "0005",
+         "0005": {
+            "unitname": "SeedUnit",
             "rarity": "Omega",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         }, 
-         "ShinyAppleUnit": {
-            "unitid": "1001",
+         "1001": {
+            "unitname": "ShinyAppleUnit",
             "rarity": "Shiny Uncommon",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
-        "ShinyBananaUnit": {
-            "unitid": "1002",
+        "1002": {
+            "unitname": "ShinyBananaUnit",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
         },
-         "ShinyBlueberryUnit": {
-            "unitid": "1003",
+         "1003": {
+            "unitname": "ShinyBlueberryUnit",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
             "attackSpeed": "0.5-0.2"
          },
-        "ShinyWatermelonUnit": {
-            "unitid": "1004",
+        "1004": {
+            "unitname": "ShinyWatermelonUnit",
             "rarity": "Shiny Secret",
             "damage": "100-500",
             "range": "N/A",
             "attackSpeed": "20-10"
         },
-         "ShinySeedUnit": {
-            "unitid": "1005",
+         "1005": {
+            "unitname": "ShinySeedUnit",
             "rarity": "Shiny Omega",
             "damage": "10-100",
             "range": "5-15",
