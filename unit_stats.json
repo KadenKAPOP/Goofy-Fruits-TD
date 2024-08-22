@@ -2,6 +2,7 @@
     "units": {
          "id0001": {
             "unitname": "AppleUnit",
+            "subname": null,
             "rarity": "Uncommon",
             "damage": "10-100",
             "range": "5-15",
@@ -9,6 +10,7 @@
         },
         "id0002": {
             "unitname": "BananaUnit",
+            "subname": null,
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
@@ -16,6 +18,7 @@
         },
          "id0003": {
             "unitname": "BlueberryUnit",
+            "subname": null,
             "rarity": "Rare",
             "damage": "10-100",
             "range": "5-15",
@@ -23,6 +26,7 @@
          },
         "id0004": {
             "unitname": "WatermelonUnit",
+            "subname": null,
             "rarity": "Secret",
             "damage": "100-500",
             "range": "N/A",
@@ -30,6 +34,7 @@
         },
          "id0005": {
             "unitname": "SeedUnit",
+            "subname": null,
             "rarity": "Omega",
             "damage": "10-100",
             "range": "5-15",
@@ -37,6 +42,7 @@
         }, 
          "id1001": {
             "unitname": "ShinyAppleUnit",
+            "subname": "(Granny Smith)",
             "rarity": "Shiny Uncommon",
             "damage": "10-100",
             "range": "5-15",
@@ -44,6 +50,7 @@
         },
         "id1002": {
             "unitname": "ShinyBananaUnit",
+            "subname": "(Pre-Ripe)",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
@@ -51,6 +58,7 @@
         },
          "id1003": {
             "unitname": "ShinyBlueberryUnit",
+            "subname": "(True)",
             "rarity": "Shiny Rare",
             "damage": "10-100",
             "range": "5-15",
@@ -58,6 +66,7 @@
          },
         "id1004": {
             "unitname": "ShinyWatermelonUnit",
+            "subname": "(Square)",
             "rarity": "Shiny Secret",
             "damage": "100-500",
             "range": "N/A",
@@ -65,6 +74,7 @@
         },
          "id1005": {
             "unitname": "ShinySeedUnit",
+            "subname": "(Inferno)",
             "rarity": "Shiny Omega",
             "damage": "10-100",
             "range": "5-15",
