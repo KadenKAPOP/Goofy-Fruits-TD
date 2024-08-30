@@ -4,9 +4,9 @@
             "unitname": "AppleUnit",
             "subname": "Slap Apple",
             "rarity": "Uncommon",
-            "damage": {"primDmg":"1", "secoDmg":"1", "tertDmg":"1", "quatDmg":"1"},
-            "range": {"primRng":"1", "secoRng":"1", "tertRng":"1", "quatRng":"1"},
-            "attackSpeed": {"primSpd":"1", "secoSpd":"1", "tertSpd":"1", "quatSpd":"1"}
+            "damage": {"primDmg":"10", "secoDmg":"20", "tertDmg":"35", "quatDmg":"50"},
+            "range": {"primRng":"5", "secoRng":"7", "tertRng":"9", "quatRng":"12"},
+            "attackSpeed": {"primSpd":"2", "secoSpd":"2", "tertSpd":"1.5", "quatSpd":"1"}
         },
         "id0002": {
             "unitname": "BananaUnit",
