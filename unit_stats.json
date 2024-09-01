@@ -40,6 +40,14 @@
             "range": {"primRng":"1", "secoRng":"1", "tertRng":"1", "quatRng":"1"},
             "attackSpeed": {"primSpd":"1", "secoSpd":"1", "tertSpd":"1", "quatSpd":"1"}
         }, 
+        "id0006": {
+            "unitname": "PineappleUnit",
+            "subname": "Pineapult",
+            "rarity": "Secret",
+            "damage": {"primDmg":"1", "secoDmg":"1", "tertDmg":"1", "quatDmg":"1"},
+            "range": {"primRng":"1", "secoRng":"1", "tertRng":"1", "quatRng":"1"},
+            "attackSpeed": {"primSpd":"1", "secoSpd":"1", "tertSpd":"1", "quatSpd":"1"}
+        }, 
          "id1001": {
             "unitname": "ShinyAppleUnit",
             "subname": "Slap Apple (Granny Smith)",
