@@ -1,1 +1,25 @@
-
+{
+    "waves": {
+        "wave1": {
+            "1": {
+                "enemyType": "broccoli",
+                "spawncooldown": 1,
+                "enemyAmt": 5
+            }
+        },
+        "wave2": {
+            "1": {
+                "enemyType": "broccoli",
+                "spawncooldown": 0.8,
+                "enemyAmt": 10
+            }
+        },
+        "wave3": {
+            "1": {
+                "enemyType": "broccoli",
+                "spawncooldown": 0.5,
+                "enemyAmt": 20
+            }
+        }
+    }
+}
